@@ -2,7 +2,11 @@
 Réalisé par :Fatima Ezzahraa Chadni
 
 # Thème :Synthèse et analyse spectrale d’une gamme de musique
--Objectifs: -Appliquer un filtre réel pour supprimer les composantes indésirables d’un signal. -Améliorer la qualité de filtrage en augmentant l’ordre du filtre.
+-Objectifs: 
+-Comprendre comment manipuler un signal audio avec Matlab, en effectuant certaines opérations classiques sur un fichier audio d’une phrase enregistrée via un smartphone.
+
+-Comprendre la notion des sons purs à travers la synthèse et l’analyse spectrale 
+d’une gamme de musique.
 
 -Travail Demandé: Réaliser un script Matlab commenté qui contient le travail réalisé avec les représentations graphique expliquées sur le travail Effectué.
 # Manipulation 1:Jeu de Mots.
